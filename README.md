@@ -1,6 +1,6 @@
 ## Wake up... 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+the+white+rabbit!;+🐇;+🐇" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Follow+the+white+rabbit!;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇;+🐇" />
 </h1>
 <!--
 **KarinaTelles/KarinaTelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
