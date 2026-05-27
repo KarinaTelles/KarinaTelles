@@ -2,9 +2,7 @@
 
 👩‍💻 Desenvolvedora de Software | 📍 Londrina, PR, Brasil | 🏦 Trabalhando na Bankme
 
-Sou apaixonada por criar soluções eficientes e explorar o ecossistema de desenvolvimento (e me aventurar no mundo Linux com CachyOS + i3wm 🐧). No momento, estou focada em construir projetos incríveis na Bankme. 
-
-> 💭 *I may be slow to respond, but I always get back to you!*
+Sou apaixonada por criar soluções eficientes e explorar o ecossistema de desenvolvimento🐧. No momento, estou focada em construir projetos incríveis na Bankme. 
 
 ---
 
@@ -16,15 +14,6 @@ Sou apaixonada por criar soluções eficientes e explorar o ecossistema de desen
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarinaTelles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaTelles&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
