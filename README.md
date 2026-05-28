@@ -1,4 +1,4 @@
-# Olá! Sou a Karina Telles 👾
+# Olá!👾
 
 👩‍💻 Desenvolvedora de Software | 📍 Londrina, PR, Brasil | 🏦 Trabalhando na Bankme
 
