@@ -1,8 +1,8 @@
-# Olá!👾
+# Olá! 👾
 
-👩‍💻 Desenvolvedora de Software | 📍 Londrina, PR, Brasil | 🏦 Trabalhando na Bankme
+Desenvolvedora de Software | Londrina, PR, Brasil | Bankme
 
-Sou apaixonada por criar soluções eficientes e explorar o ecossistema de desenvolvimento🐧. No momento, estou focada em construir projetos incríveis na Bankme. 
+Atualmente, desenovlvedora backend, mas com experiência no full stack, no QA e na docência. No momento, focada em construir projetos de alto impacto na Bankme, no setor de inovação e IA.
 
 ---
 
