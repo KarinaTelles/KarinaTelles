@@ -2,7 +2,7 @@
 
 Desenvolvedora de Software | Londrina, PR, Brasil | Bankme
 
-Atualmente, desenovlvedora backend, mas com experiência no full stack, no QA e na docência. No momento, focada em construir projetos de alto impacto na Bankme, no setor de inovação e IA.
+Atualmente, desenvolvedora Backend, mas com experiência no Full Stack, no QA e na docência. No momento, focada em construir projetos de alto impacto na Bankme, no setor de inovação e IA.
 
 ---
 
